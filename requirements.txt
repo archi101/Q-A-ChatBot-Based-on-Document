@@ -1,0 +1,7 @@
+langchain sentence_transformers
+chromadb
+google-generativeai<0.6.0
+langchain-google-genai==1.0.3
+PyPDF2
+unstructured
+langchain-community
